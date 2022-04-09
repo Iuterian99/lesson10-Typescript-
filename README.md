@@ -1,4 +1,5 @@
-# lesson10-Typescript- //!Array e`lon qilishning 2 usuli Mavjud
+# lesson10-Typescript- 
+//!Array e`lon qilishning 2 usuli Mavjud
 const numbers: number[] = [1, 2, 3, 4];
 const numbersAndStrings: Array<number | string> = [1, 2, 3, 4, "Salim"];
 console.log(numbersAndStrings);
